@@ -8,10 +8,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%String str="Git 연습"; 
+<%String str="Git 연습1"; 
 System.out.println("str=>"+str);
 out.println("<h1>"+"str=>"+str+"</h1>");
 
 %>
+str의 값출력=<%=str %>
 </body>
 </html>
